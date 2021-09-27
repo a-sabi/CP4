@@ -1,2 +1,3 @@
 R = int(input())
-print("S=", (3.14 * R**2))
+pi = 3.14
+print("S=", (pi * R**2))
