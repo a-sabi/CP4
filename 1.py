@@ -1,6 +1,6 @@
-name = "Sabina"
-lastname = "Alieva"
-birth = 2002
+name = input()
+lastname = input()
+birth = int(input())
 print(name, lastname, birth, sep="_")
 name1 = lastname
 lastname = name

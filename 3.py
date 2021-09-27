@@ -1,3 +1,2 @@
-import math
-R = 3
-print("S=", (math.pi*R**2) ) 
+R = int(input())
+print("S=", (3.14 * R**2))
